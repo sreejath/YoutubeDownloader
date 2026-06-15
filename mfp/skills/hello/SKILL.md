@@ -1,6 +1,7 @@
 ---
-description: Greet the user with a friendly message
-disable-model-invocation: true
+description: Greet the user with a personalized message
 ---
 
-Greet the user warmly and ask how you can help them today.
+# Hello Skill
+
+Greet the user named "$ARGUMENTS" warmly and ask how you can help them today. Make the greeting personal and encouraging.
